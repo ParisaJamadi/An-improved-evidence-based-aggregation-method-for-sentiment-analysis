@@ -9,6 +9,6 @@ namespace sentiment analysis
     class publicm
     {
         public static double m;
-       // public static double mm;
+       
     }
 }
